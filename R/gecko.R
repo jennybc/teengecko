@@ -1,3 +1,7 @@
 gecko <- function() {
   "🦎"
 }
+
+teen <- function() {
+  "😡"
+}
